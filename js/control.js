@@ -1,0 +1,18 @@
+$('#slider').owlCarousel({
+    loop:false,
+    items:5,
+    smartSpeed:850,
+    autoplay:false,
+    autoplayTimeout:850,
+    nav:true,
+    dots:false,
+})	
+$('#slider1').owlCarousel({
+    loop:false,
+    items:5,
+    smartSpeed:850,
+    autoplay:false,
+    autoplayTimeout:850,
+    nav:true,
+    dots:false,
+})	
